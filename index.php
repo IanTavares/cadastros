@@ -92,7 +92,7 @@
 	<footer>
 		<h3>ICL TECHNOLOGY</h3>
 		<h3>CONTATO: icltavares@hotmail.com</h3>
-		<h5>DESENVOLVIDO POR DEV IAN</h5>		
+		<h5>DESENVOLVIDO POR DEV Ian</h5>		
 	</footer>
 
 </body>
